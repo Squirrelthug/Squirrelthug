@@ -31,11 +31,11 @@
 
 > 📦 2.7 kB Used in GitHub's Storage 
  > 
-> 🏆 34 Contributions in the Year 2023
+> 🏆 36 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -66,18 +66,16 @@ Sunday                   10 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   2 hrs 52 mins       █████████████████████████   99.21 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharmCore              2 hrs 52 mins       █████████████████████████   99.24 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-alexandrias_library      2 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -94,6 +92,6 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Squirrelthug/Squirrelthug/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2023 18:36:55 UTC
+ Last Updated on 17/10/2023 18:36:28 UTC
 <!--END_SECTION:waka-->
 
