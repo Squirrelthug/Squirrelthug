@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,6 +92,6 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Squirrelthug/Squirrelthug/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2023 18:36:28 UTC
+ Last Updated on 18/10/2023 18:36:20 UTC
 <!--END_SECTION:waka-->
 
