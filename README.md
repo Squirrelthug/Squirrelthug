@@ -31,6 +31,8 @@
 
 > 📦 2.7 kB Used in GitHub's Storage 
  > 
+> 🏆 36 Contributions in the Year 2023
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -90,6 +92,6 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Squirrelthug/Squirrelthug/main/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2023 18:36:13 UTC
+ Last Updated on 15/12/2023 18:35:32 UTC
 <!--END_SECTION:waka-->
 
