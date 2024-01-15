@@ -35,7 +35,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -96,6 +96,6 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Squirrelthug/Squirrelthug/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2024 18:34:13 UTC
+ Last Updated on 15/01/2024 18:35:06 UTC
 <!--END_SECTION:waka-->
 
