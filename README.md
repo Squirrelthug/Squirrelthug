@@ -17,9 +17,6 @@
   <img align="top" src="https://streak-stats.demolab.com/?user=squirrelthug&theme=dark" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=squirrelthug&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![An image of @squirrelthug's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/squirrelthug)](https://holopin.io/@squirrelthug)
 
 
 <!--START_SECTION:waka-->
