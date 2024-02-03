@@ -5,7 +5,7 @@
 - 🎃 I’m looking to collaborate on anything I have the skills to help with.
 - 🔮 You can reach me in my inbox here.
 - 👽 Would love an opportunity to learn more about LLMs.
-- 🤖 Plan to build personalized AI assistant.
+- 🤖 Building personalized AI assistant.
 <p></p>
 
 
