@@ -9,13 +9,21 @@
 <p></p>
 
 
-
+<details close>
+<summary>📊Stats</summary>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=squirrelthug&show_icons=true&theme=darcula" />
 </a>
+</details>
+
+<details close>
+<summary>🔥Streak</summary>
+<br>
 <a href="https://git.io/streak-stats">
   <img align="top" src="https://streak-stats.demolab.com/?user=squirrelthug&theme=dark" />
 </a>
+</details>
 
 
 
@@ -34,6 +42,11 @@
  > 
 > 🔑 1 Private Repositories 
  >
+
+
+<details closed>
+<summary>🌞🌙Circadian Preference</summary>
+<br>
 **I'm a Night 🦉** 
 
 ```text
@@ -42,7 +55,11 @@
 🌃 Evening                33 commits          ██████████░░░░░░░░░░░░░░░   41.25 % 
 🌙 Night                  20 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
+</details>
 
+<details closed>
+<summary>💻💾Coding Schedule</summary>
+<br>
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -70,7 +87,7 @@ GiraffePointers          57 mins             ██░░░░░░░░░�
 💻 Operating System: 
 Mac                      10 hrs 45 mins      █████████████████████████   100.00 % 
 ```
-
+</details>
 
  Last Updated on 20/02/2024 18:35:02 UTC
 <!--END_SECTION:waka-->
