@@ -14,18 +14,13 @@
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=squirrelthug&show_icons=true&theme=darcula" />
-</a>
-</details>
-
-<details close>
-<summary>🔥Streak</summary>
 <br>
 <a href="https://git.io/streak-stats">
   <img align="top" src="https://streak-stats.demolab.com/?user=squirrelthug&theme=dark" />
 </a>
 </details>
 
-<details open>
+<details close>
 <summary>⏳Waka</summary>
 <br>
 <img src="https://wakatime.com/share/@018afdbd-69e2-4d26-a1ea-dbd0bc55d12f/62f06f59-e8d2-4333-9aee-95a20427ee0d.svg" width="50%" height="auto"></img>
