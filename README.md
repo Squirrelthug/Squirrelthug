@@ -31,10 +31,7 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2053%20mins-blue)
 
 
-
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
 
 
